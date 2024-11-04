@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="schedule_notification">Настроить уведомление</string>
+    <string name="notification_time">Время уведомления:</string>
+    <string name="select_time">Выбрать время</string>
+    <string name="notification_text">Текст уведомления:</string>
+    <string name="save">Сохранить</string>
+    <string name="et_notification_text">Введите текст уведомления</string>
+</resources>
